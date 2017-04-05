@@ -1,0 +1,46 @@
+body {
+  background-color: lightblue;
+}
+
+.wrapper {
+  background-color: white;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.main-heading {
+  font-family: "Arial", sans-serif;
+  padding: 3%;
+}
+
+footer {
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+}
+
+#page-footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: .1%;
+  font-size: .75em;
+}
+
+p {
+  font-family: "Arial", sans-serif;
+}
+
+.main-content {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.article-heading {
+  font-family: "Arial", sans-serif;
+}
+
+article {
+  border: 2px black solid;
+  margin-bottom: 2%;
+  padding: 2%;
+}
